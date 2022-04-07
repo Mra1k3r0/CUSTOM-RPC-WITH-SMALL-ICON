@@ -1,15 +1,4 @@
-///////////////////////////////////
 
-//💙 Credit Infos 
-//💜 This Project Made By Aditya Codez
-//💛 Must Give Credits While Using 
-//💚 Support Server 
-//♥️ https://discord.gg/z6RMrphPXE
-//🔥 Youtube 
-//🙉 https://youtube.com/adityacodez
-//🏘️ ©Aditya Codez™
-
-///////////////////////////////////
 
 const express = require('express')
 const server = express();
@@ -36,15 +25,3 @@ module.exports = keepAlive
 
 
 
-///////////////////////////////////
-
-//💙 Credit Infos 
-//💜 This Project Made By Aditya Codez
-//💛 Must Give Credits While Using 
-//💚 Support Server 
-//♥️ https://discord.gg/z6RMrphPXE
-//🔥 Youtube 
-//🙉 https://youtube.com/adityacodez
-//🏘️ ©Aditya Codez™
-
-///////////////////////////////////
